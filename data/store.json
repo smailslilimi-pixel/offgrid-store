@@ -1,0 +1,106 @@
+{
+  "brand": {
+    "name": "OFFGRID",
+    "logo": "",
+    "accent": "#9747ff",
+    "background": "#101014",
+    "currency": "USD",
+    "headline": "Wear what you discover.",
+    "subtext": "Streetwear essentials, styled your way.",
+    "hero": "/products/hero.png",
+    "mannequin": "/products/mannequin.png"
+  },
+  "products": [
+    {
+      "id": "logo-tee",
+      "name": "Logo Tee",
+      "price": 35,
+      "category": "Tees",
+      "slot": "top",
+      "rating": 4.9,
+      "photo": "/products/logo-tee.png",
+      "cutout": "/products/logo-tee.png"
+    },
+    {
+      "id": "graphic-tee",
+      "name": "Graphic Tee",
+      "price": 35,
+      "category": "Tees",
+      "slot": "top",
+      "rating": 4.8,
+      "oldPrice": 42,
+      "photo": "/products/graphic-tee.png",
+      "cutout": "/products/graphic-tee.png"
+    },
+    {
+      "id": "hoodie",
+      "name": "Hoodie",
+      "price": 79,
+      "category": "Hoodies & Sweats",
+      "slot": "top",
+      "rating": 4.9,
+      "photo": "/products/hoodie.png",
+      "cutout": "/products/hoodie.png"
+    },
+    {
+      "id": "crewneck",
+      "name": "Crewneck",
+      "price": 69,
+      "category": "Hoodies & Sweats",
+      "slot": "top",
+      "rating": 4.7,
+      "photo": "/products/crewneck.png",
+      "cutout": "/products/crewneck.png"
+    },
+    {
+      "id": "varsity",
+      "name": "Varsity Jacket",
+      "price": 189,
+      "category": "Jackets",
+      "slot": "outer",
+      "rating": 5,
+      "photo": "/products/varsity.png",
+      "cutout": "/products/varsity.png"
+    },
+    {
+      "id": "joggers",
+      "name": "Joggers",
+      "price": 69,
+      "category": "Trousers",
+      "slot": "bottom",
+      "rating": 4.8,
+      "photo": "/products/joggers.png",
+      "cutout": "/products/joggers.png"
+    },
+    {
+      "id": "sneakers",
+      "name": "White Sneakers",
+      "price": 109,
+      "category": "Shoes",
+      "slot": "shoes",
+      "rating": 4.9,
+      "photo": "/products/sneakers.png",
+      "cutout": "/products/sneakers.png"
+    },
+    {
+      "id": "dad-cap",
+      "name": "Dad Cap",
+      "price": 29,
+      "category": "Hats",
+      "slot": "hat",
+      "rating": 4.7,
+      "photo": "/products/dad-cap.png",
+      "cutout": "/products/dad-cap.png"
+    },
+    {
+      "id": "beanie",
+      "name": "Beanie",
+      "price": 25,
+      "category": "Hats",
+      "slot": "hat",
+      "rating": 4.8,
+      "photo": "/products/beanie.png",
+      "cutout": "/products/beanie.png"
+    }
+  ]
+}
